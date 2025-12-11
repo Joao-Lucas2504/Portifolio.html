@@ -3,3 +3,9 @@ nav{
     font-family: sans-serif;
     border: solid 2px black;
 }
+
+figure{
+    float: left;
+    clip-path: circle(43%);
+    shape-outside: circle(40%);
+}
