@@ -9,3 +9,22 @@ figure{
     clip-path: circle(43%);
     shape-outside: circle(40%);
 }
+section#info{
+    text-align: center;
+    font-weight: bolder;
+    font-size: medium 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+section#hab{
+    text-align: center;
+    font-weight: bolder;
+    font-size: medium 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
